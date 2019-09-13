@@ -1,0 +1,24 @@
+Question 1. Identify and explain the differences between server side and client side.
+
+A. Client side is what your customers will see and server side is what you will see as the owner. The differences between server and client
+is that with the server you see everything that goes on within the website and stuff where as the client only sees what you tell the server
+to show them.
+
+
+Question 2. Identify and explain the differences between scripting and programming languages.
+
+A. Scripting allows a web server to produce a response customized for each client request by sending and receiving data. 
+For programming languages run on a user’s local computer without having to send or receiving data.
+
+Question 3. Explain what type of language PHP is.
+
+PHP is a language that allows you take something like html and add it within your page.
+
+Question 4. Explain the process of a request from the client to the server and back to the client.
+
+So how the process of a request from the client to server and back to client works is that the client will send a get request and as that 
+gets sent out the server has the post request and gives it to the client's get request.
+
+Question 5. Explain the differences between the different post types discussed in the video.
+
+Post types are not allowed to be cached and can't remain in browser history. 
